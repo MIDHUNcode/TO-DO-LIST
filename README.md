@@ -2,10 +2,12 @@
 A to-do list is a simple yet effective tool for organizing tasks and managing time. It typically consists of a list of items or tasks that need to be completed, often prioritized by importance or deadline. 
 
 To-Do List Application
+
 Overview
 The To-Do List Application is a simple yet powerful tool designed to help users organize their tasks, manage their time effectively, and increase productivity. This application allows users to create, update, and track their tasks in a user-friendly interface.
 
 Features
+
 Task Organization: Categorize tasks by project, priority, or due date.
 Check-off Functionality: Mark tasks as complete for a sense of accomplishment.
 Flexibility: Easily add, remove, or modify tasks as needed.
